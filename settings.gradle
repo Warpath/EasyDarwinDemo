@@ -1,0 +1,2 @@
+rootProject.name='EasyDarwinDemo'
+include ':app', ':library'
